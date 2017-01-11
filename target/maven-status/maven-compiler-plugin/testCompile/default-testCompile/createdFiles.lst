@@ -1,0 +1,6 @@
+testcases/LoginTest.class
+com/setup/appium/AppTest.class
+pagesActions/PageControls.class
+testcases/DeviceSetUp.class
+testcases/TestLoginDemo.class
+pagesActions/LoginPageTest.class
